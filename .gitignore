@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.streamlit/
+venv/
+.venv/
+.DS_Store
+
+/outputs/
+/DeepPCB-master/
+/ai_dataset/
+/ai_defect_dataset/
+/dataset/
