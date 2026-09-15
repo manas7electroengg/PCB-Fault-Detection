@@ -1,0 +1,7 @@
+streamlit==1.63.0
+opencv-python-headless
+numpy
+pandas
+tensorflow
+reportlab
+Pillow
